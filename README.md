@@ -1,1 +1,1 @@
-# weather-itschool
+In this weather project we have a few city variants, which you can select to see the weather for that day and the forecast for 5 days. The cities you can select are: Bucharest, Timisoara, Oradea, Arad and Sibiu. We can see, besides the current forecast and the 5-day forecast and the wind speed and the real feel.
